@@ -1,6 +1,10 @@
 # YouTubeMusic DiscordRichPresence
 Shows YouTubeMusic as Discord Rich Presence
 
+## Screenshots
+![alt text](https://github.com/DevDenisYT/YouTubeMusicDiscordRichPresence/blob/master/Anmerkung%202020-07-24%20001309.png?raw=true)
+![alt text](https://github.com/DevDenisYT/YouTubeMusicDiscordRichPresence/blob/master/Anmerkung%202020-07-24%20001239.png?raw=true)
+
 ### Step 1:
 Download the Repo & install the dependencies (express & discord-rich-presence) with npm
 
@@ -16,7 +20,3 @@ Open a command promt in the directory where the repo files are and type **npm st
 
 ### Step 5
 Have fun :3
-
-## Screenshots
-![alt text](https://github.com/DevDenisYT/YouTubeMusicDiscordRichPresence/blob/master/Anmerkung%202020-07-24%20001309.png?raw=true)
-![alt text](https://github.com/DevDenisYT/YouTubeMusicDiscordRichPresence/blob/master/Anmerkung%202020-07-24%20001239.png?raw=true)
