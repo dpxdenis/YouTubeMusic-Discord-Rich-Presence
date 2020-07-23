@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+  
+    "name": "YouTubeMusicDiscordRichPresence",
+    "description": "Shows YouTubeMusic in Discord! By DevDenis",
+    "version": "1.0",
+
+    "content_scripts" : [{
+      "matches": ["https://music.youtube.com/*"],
+      "js": ["content.js"]
+    }],
+      
+    "background": {
+      "scripts": ["jquery.js", "background.js"],
+      "persistent": true
+    },
+  
+    "browser_action": {},
+  
+    "permissions": [
+        "http://localhost/*",
+      "tabs",
+      "activeTab"
+    ],
+  
+  
+    "icons": {
+    }
+  
+  }
